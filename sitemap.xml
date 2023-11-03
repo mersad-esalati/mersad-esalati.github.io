@@ -8,6 +8,8 @@
   <url>
     <loc>https://mersad-esalati.github.io/home-unused/skills/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://mersad-esalati.github.io/home-unused/experience/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://mersad-esalati.github.io/home-unused/accomplishments/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mersad-esalati.github.io/home-unused/projects/</loc><changefreq>weekly</changefreq></url>
@@ -28,6 +30,22 @@
   <url>
     <loc>https://mersad-esalati.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://mersad-esalati.github.io/publication-type/3/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/tag/domain-adaptation/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/publication/esposito/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/tag/neural-machine-translation/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/tag/parallel-corpus/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/publication_types/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/publication/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://mersad-esalati.github.io/tags/</loc><lastmod>2023-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://mersad-esalati.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mersad-esalati.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -35,8 +53,6 @@
     <loc>https://mersad-esalati.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mersad-esalati.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mersad-esalati.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mersad-esalati.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -53,13 +69,5 @@
     <loc>https://mersad-esalati.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mersad-esalati.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mersad-esalati.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mersad-esalati.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mersad-esalati.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://mersad-esalati.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://mersad-esalati.github.io/home-unused/</loc><changefreq>weekly</changefreq></url></urlset>
